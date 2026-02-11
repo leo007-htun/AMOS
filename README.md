@@ -1,10 +1,8 @@
+# 🎉 AMOS - AI-POWERED INDUSTRIAL ASSEST MANAGEMENT & OPTIMIZATION SYSTEM
+
 <img width="1848" height="843" alt="image" src="https://github.com/user-attachments/assets/237a0a31-0dca-46f6-a4bb-a35ead703c36" />
 <img width="1866" height="874" alt="image" src="https://github.com/user-attachments/assets/57d485a7-0e7d-436c-a3ae-8567ba9f27b6" />
 <img width="1591" height="689" alt="image" src="https://github.com/user-attachments/assets/5e7d244a-cbc2-4335-bc80-668179390bfe" />
-
-
-
-# 🎉 AMOS - AI-POWERED INDUSTRIAL ASSEST MANAGEMENT & OPTIMIZATION SYSTEM
 
 ## ✅ System Status: PRODUCTION READY
 
