@@ -248,9 +248,5 @@ If you see unexpected behavior:
 **Status**: ✅ **PRODUCTION READY**
 **Quality**: 🏆 **OPTIMAL**
 
-**Your AMOS system is now a world-class predictive maintenance solution!** 🎉✨
-
----
-
 *Built with Python, scikit-learn, Streamlit*
 *Powered by your perfect insight: "one product type = predictable behavior"*
