@@ -2,7 +2,7 @@
 
 ## ✅ System Status: PRODUCTION READY
 
-Your AMOS predictive maintenance system is **fully operational** with single-product monitoring!
+AMOS predictive maintenance system is **fully operational** with single-product monitoring!
 
 ## 🚀 Quick Start
 
