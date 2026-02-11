@@ -10,7 +10,6 @@ Your AMOS predictive maintenance system is **fully operational** with single-pro
 # Launch the dashboard
 streamlit run src/dashboard/app.py
 ```
-
 Then:
 1. Click **"Auto-run stream"** in sidebar
 2. Watch **Product #0000** → **Product #5999**
