@@ -244,8 +244,6 @@ If you see unexpected behavior:
 ---
 
 **System Version**: 3.0 - Single-Product Production Line
-**Status**: ✅ **PRODUCTION READY**
-**Quality**: 🏆 **OPTIMAL**
 
 *Built with Python, scikit-learn, Streamlit*
 *Powered by your perfect insight: "one product type = predictable behavior"*
